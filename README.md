@@ -1,2 +1,2 @@
 # randomwalk
-random walk -GUI created in autumn 2020
+random walk -GUI created in autumn 2020. GUI is created with Matlab's app creator. .m-file is exported version of the original .mlapp file
