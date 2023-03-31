@@ -1,2 +1,2 @@
 # randomwalk
-Random Walk simulating GUI created in autumn 2020
+Random walk -GUI created in autumn 2020
